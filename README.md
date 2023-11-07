@@ -5,7 +5,7 @@ With this task we were presented with starter code for a scheduler, adding on to
 
 
 ## Installation
-[(https://joeyray12.github.io/HSSS-Jobticket/#social-media-marketing)](https://joeyray12.github.io/Workday-Scheduler/)
+https://joeyray12.github.io/Workday-Scheduler/
 
 ## Usage
 This page can now be utilized to track meetings throughout the day and present you with any meetings that have already happened in previous hours of that day. The page successfully saves any meetings that are added to it and saved.
